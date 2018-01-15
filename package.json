@@ -1,6 +1,6 @@
 {
   "name": "postcss-icon.stiffi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "stiffi.js",
   "repository": "https://github.com/retyui/postcss-icon.stiffi",
   "author": "retyui <vamnemne@gmail.com>",
